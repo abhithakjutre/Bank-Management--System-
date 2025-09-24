@@ -83,28 +83,22 @@ As Abhi Bank is a command-line interface, there is no API reference to provide. 
 
 ```json
 {
-    "commands": [
-        {
-            "name": "create_account",
-            "description": "Create a new account"
-        },
-        {
-            "name": "deposit",
-            "description": "Deposit funds into an account"
-        },
-        {
-            "name": "withdraw",
-            "description": "Withdraw funds from an account"
-        },
-        {
-            "name": "transfer",
-            "description": "Transfer funds between accounts"
-        },
-        {
-            "name": "account_statement",
-            "description": "Generate an account statement"
-        }
-    ]
+
+    "3663722484581952": {
+        "fullname": "abhicoder",
+        "phno": "",
+        "email": "abhithakur@gmail.com",
+        "adharnumber": "3493939393",
+        "balance": 520
+    },
+    "3663640926405025": {
+        "fullname": "yashthakur",
+        "phno": "5643283839",
+        "email": "abhithakur@gmail.com",
+        "adharnumber": "639609177933",
+        "balance": 530
+    }
+
 }
 ```
 
